@@ -1,0 +1,25 @@
+body {
+    background-image: url(https://htmlcolorcodes.com/assets/images/colors/sky-blue-color-solid-background-1920x1080.png);
+}
+
+h1{
+    font-family: fantasy;
+   
+}
+
+.nav{
+    position: relative;
+    float: right;
+    z-index: 1;
+}
+
+.footer{
+position: relative;
+float: right;
+font-size: xx-small;
+}
+
+.he2{
+    position: relative;
+    float: right;
+}
